@@ -4,9 +4,6 @@
 - The Mastering Python Fundamental in 10 Lesson are designed by AI Academy. The problem was solved by me while I am attending at UI Academy.
 - The material consist of (Python Basic Data Type, Functions, Class-Object, Python Data Structures, Graph, Tree )
 
-## Documents/Research Paper
-Link your research paper <a href="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/documents/resarch-sample.pdf">here</a> if you need
-
 ## Technology
 List of technology
 - Python 
